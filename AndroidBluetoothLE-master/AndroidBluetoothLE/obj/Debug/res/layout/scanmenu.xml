@@ -1,0 +1,1 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:local="http://schemas.android.com/apk/res-auto"><item android:id="@+id/ScanAction" android:title="@string/StartScan" /><item android:id="@+id/OpenServerAction" android:title="@string/OpenServer" /></menu>

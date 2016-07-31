@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+	<uses-sdk android:minSdkVersion="18" android:targetSdkVersion="18" />
+	<!--In order to initiate device discovery or manipulate Bluetooth settings-->
+	<uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+	<!--In order to use blutooth in application-->
+	<uses-permission android:name="android.permission.BLUETOOTH" />
+	<!--App is available not only to BLE-capable devices-->
+	<uses-feature android:name="android.hardware.bluetooth_le" android:required="true" />
+	<application></application>
+</manifest>
