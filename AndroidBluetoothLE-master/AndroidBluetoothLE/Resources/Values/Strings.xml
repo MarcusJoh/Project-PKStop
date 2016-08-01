@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="Hello">Hello World, Click Me!</string>
-    <string name="ApplicationName">AndroidBluetoothLE</string>
-    <string name="StartScan">Start Scan</string>
-    <string name="StopScan">Stop Scan</string>
-    <string name="OpenServer">Open Server</string>
-    <string name="CloseServer">Close Server</string>
-</resources>

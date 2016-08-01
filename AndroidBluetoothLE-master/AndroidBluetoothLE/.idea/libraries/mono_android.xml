@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="mono.android">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/obj/Debug/android/bin/mono.android.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

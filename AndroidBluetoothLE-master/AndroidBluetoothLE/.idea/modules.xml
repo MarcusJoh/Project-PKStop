@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/obj/Debug/Debug.iml" filepath="$PROJECT_DIR$/obj/Debug/Debug.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Properties/Properties.iml" filepath="$PROJECT_DIR$/Properties/Properties.iml" />
-    </modules>
-  </component>
-</project>
