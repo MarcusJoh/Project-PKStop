@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "outputFile": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 118
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 186
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values-sw600dp\\template-dimens.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -50,7 +50,7 @@
                     "endOffset": 431
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values-sw600dp\\template-styles.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,

@@ -7,14 +7,14 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Write Char"
+        android:text="Check current value"
         android:id="@+id/button2"
         android:onClick="onClickWrite" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Read Char"
+        android:text="Start Toss mode"
         android:id="@+id/button"
         android:onClick="onClickRead" />
 

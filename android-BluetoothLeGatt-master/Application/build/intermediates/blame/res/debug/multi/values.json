@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 111
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 173
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 235
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 299
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 1043
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 1100
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 1154
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 1224
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 1267
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1311
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1356
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1399
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1441
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1509
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-dimens.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1562
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\base-strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1629
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1677
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1731
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 1814
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -373,7 +373,7 @@
                     "endOffset": 2078
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\base-strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -393,7 +393,7 @@
                     "endOffset": 2123
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -412,7 +412,7 @@
                     "endOffset": 2188
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -431,7 +431,7 @@
                     "endOffset": 2235
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -450,7 +450,7 @@
                     "endOffset": 2284
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -469,7 +469,7 @@
                     "endOffset": 2339
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -488,7 +488,7 @@
                     "endOffset": 2382
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -507,7 +507,7 @@
                     "endOffset": 2425
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -526,7 +526,7 @@
                     "endOffset": 2469
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -545,7 +545,7 @@
                     "endOffset": 2527
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -564,7 +564,7 @@
                     "endOffset": 2601
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -583,7 +583,7 @@
                     "endOffset": 2659
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -602,7 +602,7 @@
                     "endOffset": 2719
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 2770
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -641,7 +641,7 @@
                     "endOffset": 3184
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -662,7 +662,7 @@
                     "endOffset": 3248
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -683,7 +683,7 @@
                     "endOffset": 3374
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -704,7 +704,7 @@
                     "endOffset": 3502
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -724,7 +724,7 @@
                     "endOffset": 3562
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -743,7 +743,7 @@
                     "endOffset": 3615
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -762,7 +762,7 @@
                     "endOffset": 3642
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -782,7 +782,7 @@
                     "endOffset": 3838
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -803,7 +803,7 @@
                     "endOffset": 4116
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\src\\main\\res\\values\\template-styles.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,

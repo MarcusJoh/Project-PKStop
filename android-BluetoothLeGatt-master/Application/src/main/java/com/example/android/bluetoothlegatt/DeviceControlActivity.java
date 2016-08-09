@@ -14,44 +14,44 @@
  * limitations under the License.
  */
 
-package com.example.android.bluetoothlegatt;
+        package com.example.android.bluetoothlegatt;
 
-import android.app.Activity;
-import android.app.Notification;
-import android.bluetooth.BluetoothGattCharacteristic;
-import android.bluetooth.BluetoothGattService;
-import android.content.BroadcastReceiver;
-import android.content.ComponentName;
-import android.content.Context;
-import android.content.Intent;
-import android.content.IntentFilter;
-import android.content.ServiceConnection;
-import android.content.pm.PackageManager;
-import android.os.AsyncTask;
-import android.os.Bundle;
-import android.os.Environment;
-import android.os.IBinder;
+        import android.app.Activity;
+        import android.app.Notification;
+        import android.bluetooth.BluetoothGattCharacteristic;
+        import android.bluetooth.BluetoothGattService;
+        import android.content.BroadcastReceiver;
+        import android.content.ComponentName;
+        import android.content.Context;
+        import android.content.Intent;
+        import android.content.IntentFilter;
+        import android.content.ServiceConnection;
+        import android.content.pm.PackageManager;
+        import android.os.AsyncTask;
+        import android.os.Bundle;
+        import android.os.Environment;
+        import android.os.IBinder;
 
-import android.support.v4.content.ContextCompat;
-import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
-import android.widget.ExpandableListView;
-import android.widget.SimpleExpandableListAdapter;
-import android.widget.TextView;
+        import android.support.v4.content.ContextCompat;
+        import android.util.Log;
+        import android.view.Menu;
+        import android.view.MenuItem;
+        import android.view.View;
+        import android.widget.ExpandableListView;
+        import android.widget.SimpleExpandableListAdapter;
+        import android.widget.TextView;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.OutputStream;
-import java.io.OutputStreamWriter;
-import java.io.Writer;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
+        import java.io.BufferedReader;
+        import java.io.File;
+        import java.io.FileOutputStream;
+        import java.io.IOException;
+        import java.io.InputStreamReader;
+        import java.io.OutputStream;
+        import java.io.OutputStreamWriter;
+        import java.io.Writer;
+        import java.util.ArrayList;
+        import java.util.HashMap;
+        import java.util.List;
 
 /**
  * For a given BLE device, this Activity provides the user interface to connect, display data,
@@ -115,7 +115,7 @@ public class DeviceControlActivity extends Activity {
                 clearUI();
             } else if (BluetoothLeService.ACTION_GATT_SERVICES_DISCOVERED.equals(action)) {
                 // Show all the supported services and characteristics on the user interface.
-               // displayGattServices(mBluetoothLeService.getSupportedGattServices());
+                // displayGattServices(mBluetoothLeService.getSupportedGattServices());
             } else if (BluetoothLeService.ACTION_DATA_AVAILABLE.equals(action)) {
                 displayData(intent.getStringExtra(BluetoothLeService.EXTRA_DATA));
 
@@ -155,7 +155,7 @@ public class DeviceControlActivity extends Activity {
                     }
                     return false;
                 }
-    };
+            };
 
     private static IntentFilter makeGattUpdateIntentFilter() {
         final IntentFilter intentFilter = new IntentFilter();
@@ -171,7 +171,7 @@ public class DeviceControlActivity extends Activity {
     }
 
     private void clearUI() {
-     //   mGattServicesList.setAdapter((SimpleExpandableListAdapter) null);
+        //   mGattServicesList.setAdapter((SimpleExpandableListAdapter) null);
         mDataField.setText(R.string.no_data);
     }
 
@@ -214,7 +214,7 @@ public class DeviceControlActivity extends Activity {
     @Override
     protected void onPause() {
         super.onPause();
-      //  unregisterReceiver(mGattUpdateReceiver);
+        //  unregisterReceiver(mGattUpdateReceiver);
     }
 
     @Override
@@ -257,7 +257,7 @@ public class DeviceControlActivity extends Activity {
         runOnUiThread(new Runnable() {
             @Override
             public void run() {
-              //  mConnectionState.setText(resourceId);
+                //  mConnectionState.setText(resourceId);
             }
         });
     }
@@ -265,8 +265,7 @@ public class DeviceControlActivity extends Activity {
     private void displayData(String data) {
         if (data != null) {
 
-            if(data.equals(olddata)){
-           }else {
+
                 Log.w(TAG, "NEW EVENT: " + data);
 
                 canWriteToExternalStorage(getApplicationContext());
@@ -285,18 +284,27 @@ public class DeviceControlActivity extends Activity {
 
 
 
-        }
-                    olddata=data;
+
         }
     }
 
     public boolean saveFile( String mytext){
+        String filename=null;
         Log.i("TEST", "SAVE");
+         if (mytext.endsWith("05 ")){
+            Log.i("TEST", "Nope");
+            filename="no.txt";
+        }else{
+
+            Log.i("TEST", "toss");
+            filename="file_name.txt";
+        }
+
         try {
             File f = new File(Environment.getExternalStorageDirectory()
-                    + File.separator + "file_name.txt");
-                        FileOutputStream fos = new FileOutputStream(f);
-              Writer out = new OutputStreamWriter(fos);
+                    + File.separator + filename);
+            FileOutputStream fos = new FileOutputStream(f);
+            Writer out = new OutputStreamWriter(fos);
             out.write(mytext);
             out.close();
             Log.i("TEST", String.valueOf(f.getAbsolutePath()));
@@ -381,7 +389,7 @@ public class DeviceControlActivity extends Activity {
 
         @Override
         protected String doInBackground(String... params) {
-            for (int i = 0; i < 60; i++) {
+            for (int i = 0; i < 60*5; i++) {
                 if(mBluetoothLeService != null) {
                     mBluetoothLeService.readCustomCharacteristic();
 
@@ -411,4 +419,3 @@ public class DeviceControlActivity extends Activity {
         protected void onProgressUpdate(Void... values) {}
     }
 }
-

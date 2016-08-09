@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\values-v23\\values-v23.xml",
+        "outputFile": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\res\\merged\\debug\\values-v23\\values-v23.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 200
                 },
                 "from": {
-                    "file": "C:\\Users\\marcus\\Desktop\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values-v23\\values-v23.xml",
+                    "file": "C:\\Users\\mj\\Desktop\\Project-PKStop-master\\android-BluetoothLeGatt-master\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values-v23\\values-v23.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
