@@ -24,11 +24,10 @@ byte oldval = 6;
 #include <EducationShield.h>
 
 IMU imu; // the IMU
-long lastTimer; //used for saveing millis()
-bool up, down, left, right;
+
 byte dir;
 
-const int ledPin = 13; // set ledPin to use on-board LED
+
 BLEPeripheral blePeripheral; // create peripheral instance
 
 BLEService ledService("19B10000-E8F2-537E-4F6C-D104768A1214"); // create service
@@ -44,10 +43,10 @@ void setup() {
   imu.detectShock();
   imu.attachCallback(shockCallback);
 
-  pinMode(ledPin, OUTPUT); // use the LED on pin 13 as an output
+  
 
   // set the local name peripheral advertises
-  blePeripheral.setLocalName("LEDCB");
+  blePeripheral.setLocalName("APKM");
   // set the UUID for the service this peripheral advertises
   blePeripheral.setAdvertisedServiceUuid(ledService.uuid());
 
@@ -73,46 +72,14 @@ void loop() {
   // poll peripheral
   blePeripheral.poll();
 
-  // read raw rollro measurements from device
-  imu.run();
-  // get the pitch and roll result from the filter
-  int pitch = imu.getPitch();
-  int roll = imu.getRoll();
-
-
-
-  // check if the board has been tilted in any direction and set the direction bools accordingly
-  if (pitch < -45) {
-    up = true;
-    dir = 2;
-  } else if (pitch > 45) {
-
-    down = true;
-    dir = 1;
-
-  } else if (roll  < -45) {
-
-    left = true;
-    dir = 3;
-  } else if (roll > 45) {
-
-    right = true;
-    dir = 4;
-  } else {
-
     dir = 5;
-  }
-
-
-  
- 
-
 
   Serial.print(dir);
  
    
     if(oldval != val) {
-      dir = val; Serial.println(dir);
+      dir = val; 
+      Serial.println(dir);
 
   }
  
